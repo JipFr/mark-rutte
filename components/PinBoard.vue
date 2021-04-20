@@ -33,7 +33,7 @@
             />
           </LargeSticky>
           <LargeSticky>
-            <form name="contact" method="POST" data-netlify="true">
+            <form name="contact" method="POST" netlify>
               <label>
                 <p>Hugo hit me up <strong>UwU</strong></p>
                 <textarea type="text" name="message" />
