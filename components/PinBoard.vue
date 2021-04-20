@@ -37,9 +37,9 @@
               <script>
                 document
                   .querySelector('.move-form-here')
-                  .appendChild(document.querySelector('[netlify]'))
+                  .appendChild(document.querySelector('.is-netlify'))
                 document
-                  .querySelectorAll('[netlify][hidden]')
+                  .querySelectorAll('.is-netlify[hidden]')
                   .forEach((el) => el.removeAttribute('hidden'))
               </script>
             </div>
