@@ -33,13 +33,16 @@
             />
           </LargeSticky>
           <LargeSticky>
-            <form name="contact" method="POST" netlify>
-              <label>
-                <p>Hugo hit me up <strong>UwU</strong></p>
-                <textarea type="text" name="message" />
-              </label>
-              <button type="submit">OwO :D</button>
-            </form>
+            <div class="move-form-here">
+              <script>
+                document
+                  .querySelector('.move-form-here')
+                  .appendChild(document.querySelector('[netlify]'))
+                document
+                  .querySelectorAll('[netlify][hidden]')
+                  .forEach((el) => el.removeAttribute('hidden'))
+              </script>
+            </div>
           </LargeSticky>
         </div>
       </div>
