@@ -7,6 +7,10 @@
           <HorizontalSticky>Eieren halen</HorizontalSticky>
           <HorizontalSticky>Campagne idee: big floppa</HorizontalSticky>
           <HorizontalSticky>wachtwoord: M@rkrutte123!</HorizontalSticky>
+          <HorizontalSticky>Geen domme dingen doen</HorizontalSticky>
+          <HorizontalSticky>Aan geheugen werken</HorizontalSticky>
+          <HorizontalSticky>Lekken naar de pers</HorizontalSticky>
+          <LargeSticky> Veel sociaal doen met Vera Bergkamp </LargeSticky>
           <LargeSticky>
             <ul>
               <li>Hallo</li>
@@ -14,6 +18,21 @@
               <li>Hallo</li>
               <li>Hallo</li>
             </ul>
+          </LargeSticky>
+          <LargeSticky>
+            Zorgen dat Wilders & Baudet niks zeggen over de motie van wantrouwen
+            tegen mij in de toekomst
+          </LargeSticky>
+          <LargeSticky>
+            TODO:
+            <ul>
+              <li>
+                Coronamaatregels versoepelen zodat het volk mij weer leuk vind
+              </li>
+            </ul>
+          </LargeSticky>
+          <LargeSticky>
+            Idee: "anonieme bron" noemen als reden dat ik het me herinner
           </LargeSticky>
           <LargeSticky>
             Wraak nemen op Clash of Clans dorp van Hugo
