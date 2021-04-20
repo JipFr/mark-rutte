@@ -4,28 +4,15 @@
       <div class="ratio"></div>
       <div class="content-wrapper">
         <div class="content">
-          <HorizontalSticky> Hallos </HorizontalSticky>
-          <!-- <HorizontalSticky> LOL! </HorizontalSticky>
-          <HorizontalSticky> XD </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky> -->
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <HorizontalSticky> Lol </HorizontalSticky>
-          <LargeSticky>HELLO!</LargeSticky>
-          <LargeSticky>HELLO!</LargeSticky>
-          <LargeSticky>HELLO!</LargeSticky>
-          <LargeSticky>HELLO!</LargeSticky>
+          <HorizontalSticky> Eieren halen </HorizontalSticky>
+          <LargeSticky>
+            <ul>
+              <li>Hallo</li>
+              <li>Hallo</li>
+              <li>Hallo</li>
+              <li>Hallo</li>
+            </ul>
+          </LargeSticky>
         </div>
       </div>
     </div>

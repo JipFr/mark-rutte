@@ -27,7 +27,7 @@
   cursor: pointer;
 }
 .sticky-content {
-  margin: 20px;
+  margin: 10px 20px;
 }
 </style>
 
