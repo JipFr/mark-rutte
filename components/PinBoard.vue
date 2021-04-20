@@ -32,6 +32,14 @@
               style="width: 100%; height: 150px"
             />
           </LargeSticky>
+          <LargeSticky>
+            <form name="contact" method="POST" data-netlify="true">
+              <label>
+                <p>Hugo hit me up <strong>UwU</strong></p>
+                <textarea type="text" name="message" />
+              </label>
+            </form>
+          </LargeSticky>
         </div>
       </div>
     </div>
