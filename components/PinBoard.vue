@@ -38,6 +38,7 @@
                 <p>Hugo hit me up <strong>UwU</strong></p>
                 <textarea type="text" name="message" />
               </label>
+              <button type="submit">OwO :D</button>
             </form>
           </LargeSticky>
         </div>
