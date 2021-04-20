@@ -10,7 +10,9 @@
           <HorizontalSticky>Geen domme dingen doen</HorizontalSticky>
           <HorizontalSticky>Aan geheugen werken</HorizontalSticky>
           <HorizontalSticky>Lekken naar de pers</HorizontalSticky>
-          <LargeSticky> Veel sociaal doen met Vera Bergkamp </LargeSticky>
+          <LargeSticky>
+            Ervoor zorgen dat in ieder geval vera bergkamp mij mag
+          </LargeSticky>
           <LargeSticky>
             <ul>
               <li>Hallo</li>
