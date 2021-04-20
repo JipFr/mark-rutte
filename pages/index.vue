@@ -7,7 +7,7 @@
 <style lang="scss" scoped>
 .container {
   width: 80%;
-  max-width: 400px;
+  max-width: 600px;
   // margin: 60px auto;
   position: absolute;
   right: 100px;

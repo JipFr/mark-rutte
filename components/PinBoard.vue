@@ -4,7 +4,9 @@
       <div class="ratio"></div>
       <div class="content-wrapper">
         <div class="content">
-          <HorizontalSticky> Eieren halen </HorizontalSticky>
+          <HorizontalSticky>Eieren halen</HorizontalSticky>
+          <HorizontalSticky>Campagne idee: big floppa</HorizontalSticky>
+          <HorizontalSticky>wachtwoord: M@rkrutte123!</HorizontalSticky>
           <LargeSticky>
             <ul>
               <li>Hallo</li>
@@ -12,6 +14,23 @@
               <li>Hallo</li>
               <li>Hallo</li>
             </ul>
+          </LargeSticky>
+          <LargeSticky>
+            Wraak nemen op Clash of Clans dorp van Hugo
+          </LargeSticky>
+          <LargeSticky>
+            Niet vergeten elke dag op farmville in te loggen zodat ik mijn
+            muntjes niet kwijt raak
+          </LargeSticky>
+          <LargeSticky>
+            <b>Niet vergeten</b>: de zogenaamde "default dance" leren zodat ik
+            stemmen krijg van jongeren
+          </LargeSticky>
+          <LargeSticky>
+            <img
+              src="https://media1.giphy.com/media/L0f1Mj7SPaq9pO93By/200.gif"
+              style="width: 100%; height: 150px"
+            />
           </LargeSticky>
         </div>
       </div>
@@ -32,7 +51,7 @@
   overflow: hidden;
 
   .ratio {
-    padding-bottom: 100%;
+    height: 80vh;
   }
   .content-wrapper {
     width: 100%;
