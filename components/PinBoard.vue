@@ -53,6 +53,18 @@
               style="width: 100%; height: 150px"
             />
           </LargeSticky>
+          <LargeSticky>
+            <div class="move-form-here">
+              <script>
+                document
+                  .querySelector('.move-form-here')
+                  .appendChild(document.querySelector('.form'))
+                document
+                  .querySelectorAll('.form[hidden]')
+                  .forEach((el) => el.removeAttribute('hidden'))
+              </script>
+            </div>
+          </LargeSticky>
         </div>
       </div>
     </div>
